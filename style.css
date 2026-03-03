@@ -1,0 +1,33 @@
+h1 {
+    color: #F45D01;
+    text-align: left;
+    font-family: cursive;
+    padding-left: 80px;
+}
+
+h3 {
+    color:#F45D01;
+    text-transform: capitalize;
+    font-family: cursive;
+
+}
+
+body  {
+    background-color: #000411;
+}
+
+ul{
+    color: #F45D01;
+}
+
+pre{
+    text-align: left;
+    font-family: cursive;
+    color:#EFCB68;
+}
+
+a{
+    text-decoration: none;
+    font-family: cursive;
+}
+
